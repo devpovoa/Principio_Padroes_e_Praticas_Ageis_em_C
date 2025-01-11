@@ -120,7 +120,7 @@ Contribuições são bem-vindas! 🎉 Se você deseja adicionar novos exemplos, 
 
 ## 🔗 Referências
 
-- 📖 Livro: [Princípios, Padrões e Práticas Ágeis em C# - Robert C. Martin](https://www.amazon.com.br/)
+- 📖 Livro: [Princípios, Padrões e Práticas Ágeis em C# - Robert C. Martin](https://www.amazon.com.br/Princ%C3%ADpios-Padr%C3%B5es-Pr%C3%A1ticas-Robert-Martin/dp/8577808416/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2YIOELZG8P5TO&dib=eyJ2IjoiMSJ9.3-3N1-ebSeqMwhY7Kn7V24NCEmVGS8nyXB3cY7j0fRY.uBo8LUh7HGCB9XkjjEAUeycK0VH3ecolpmmducbKmAc&dib_tag=se&keywords=padroes+de+projeto+e+ageis+em+C%23&qid=1736637187&sprefix=padroes+de+projeto+e+ageis+em+c+%2Caps%2C215&sr=8-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b)
 - 🌐 [Documentação oficial do .NET](https://learn.microsoft.com/)
 
 ---
