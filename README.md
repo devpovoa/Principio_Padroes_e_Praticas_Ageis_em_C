@@ -9,7 +9,7 @@
 
 
 
-# Princípios, Padrões e Práticas Ágeis em<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" style="zoom:10%;" />
+# Princípios, Padrões e Práticas Ágeis em <img height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo"/>
 
 🚀 Este repositório é uma coleção de exemplos, exercícios e projetos inspirados no livro **"Princípios, Padrões e Práticas Ágeis em C#"** de Robert C. Martin (Uncle Bob). O objetivo é fornecer uma base prática para o aprendizado e aplicação de conceitos fundamentais do desenvolvimento ágil e de boas práticas de programação em C#.
 
