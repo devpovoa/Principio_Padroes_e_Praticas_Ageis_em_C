@@ -58,8 +58,8 @@
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/devpovoa/Principio_Padroes_e_Praticas_Ageis_em_C.git
+   cd Principio_Padroes_e_Praticas_Ageis_em_C
    ```
 
 2. **Explore os exemplos e exercícios:**
