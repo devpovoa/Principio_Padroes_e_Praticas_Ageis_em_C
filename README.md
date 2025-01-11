@@ -58,7 +58,7 @@
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/devpovoa/Principio_Padroes_e_Praticas_Ageis_em_C.git
+   git clone https://github.com/devpovoa/Principio_Padroes_e_Praticas_Ageis_em_C-Sharp.git
    cd Principio_Padroes_e_Praticas_Ageis_em_C
    ```
 
